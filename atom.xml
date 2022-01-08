@@ -30,7 +30,7 @@
         
     <summary type="html">&lt;p&gt;博主是就读于西安电子科技大学19级计算机科学与技术学院物联网工程专业的大三蒟蒻一枚，什么都想学但什么都没学明白的CS菜鸡（&lt;/p&gt;
 &lt;p&gt;在2022的第一天，下定决心搭建属于自己的个人博客，记录今后学习中的收获与成长。&lt;/p&gt;
-&lt;p&gt;​                  </summary>
+&lt;p&gt;​																			</summary>
         
       
     
@@ -55,7 +55,8 @@
       
         
         
-    <summary type="html">&lt;h1 id=&quot;Linux-Shell学习笔记&quot;&gt;&lt;a href=&quot;#Linux-Shell学习笔记&quot; class=&quot;headerlink&quot; title=&quot;Linux Shell学习笔记&quot;&gt;&lt;/a&gt;&lt;code&gt;Linux</summary>
+    <summary type="html">&lt;h1&gt;&lt;code&gt;Linux Shell&lt;/code&gt;学习笔记&lt;/h1&gt;
+&lt;p&gt;本篇&lt;code&gt;Shell&lt;/code&gt;环境基于Arch Linux 5.15.12；GNU bash，版本 5.1.12(1)-release</summary>
         
       
     
